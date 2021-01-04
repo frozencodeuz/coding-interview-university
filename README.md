@@ -452,8 +452,6 @@ Why code in all of these?
 - Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python or Java))
 - Make use of built-in types, so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)
 
-I may not have time to do all of these for every subject, but I'll try.
-
 You can see my code here:
  - [C](https://github.com/jwasham/practice-c)
  - [C++](https://github.com/jwasham/practice-cpp)
